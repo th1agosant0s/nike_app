@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         image: 'dunk_blue.png',
         name: 'Tenis Nike Dunk Low Retro Se Masculinos',
         description:
-            'Avançar rápido. Rebobinar. Não importa – este tênis leva o retrô para o futuro. O V2K remasteriza tudo o que você adora no Vomero em um visual retirado diretamente de um catálogo de corrida dos primeiros anos. Camadas com uma mistura de azuis gelados, detalhes translúcidos e uma entressola macia com uma estética perfeitamente vintage. E uma sola grossa garante que você se sinta confortável onde quer que vá.',
+            'Avançar rápido. Rebobinar. Não importa – este tênis leva o retrô para o futuro. O V2K remasterizou tudo o que você adora no Vomero em um visual retirado diretamente de um catálogo de corrida dos primeiros anos. Camadas com uma mistura de azuis gelados, detalhes translúcidos e uma entressola macia com uma estética perfeitamente vintage. E uma sola grossa garante que você se sinta confortável onde quer que vá.',
         price: 899.99),
     Product(
         image: 'dunk_grey.png',
