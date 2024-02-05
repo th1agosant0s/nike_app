@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
         image: 'dunk_grey.png',
         name: 'Tenis Nike Dunk Low Retro Se Masculino',
         description:
-            'Criado para as quadras, mas levado para as ruas, o ícone do basquete dos anos 80 retorna com materiais premium que levam seu estilo para o próximo nível. Seu colarinho acolchoado e decotado permite que você leve seu jogo para qualquer lugar - com conforto.',
+            'Criado para as quadras, mas levado para as ruas, o ícone do basquete dos anos 80 retorna com materiais premium que levam seu estilo para o próximo nível. Seu colarinho acolchoados e decotado permite que você leve seu jogo para qualquer lugar - com conforto.',
         price: 1999.99),
     // Add more products as needed
   ];
